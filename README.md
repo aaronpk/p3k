@@ -8,4 +8,3 @@ See Also
 
 * https://github.com/aaronpk/p3k-core
 * https://github.com/aaronpk/p3k-micropub
-* 
